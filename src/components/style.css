@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.user-list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
